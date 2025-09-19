@@ -1,14 +1,16 @@
 # SVG-To-XYformat
 SVG to XY Converter
 This Python script converts SVG files to XY coordinate .txt files, streamlining the drawing workflow by allowing editable drawings in Adobe Illustrator (15-day trial) or Inkscape (free), avoiding the need to restart 35-minute drawings in ImageJ/Fiji.
-Requirements
+
+
+**Requirements**
 
 Python 3.6+ (download).
-svgpathtools: Install via:pip install svgpathtools
+svgpathtools: Install via: "pip install svgpathtools"
 
 
 
-Setup
+**Setup**
 
 **Create Folders**
 
